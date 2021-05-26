@@ -20,6 +20,7 @@
 */
 
 // 5. Convert the above code using`?` terniary operator
+b  cm ;' .ml h .'
 
 // Switch
 
