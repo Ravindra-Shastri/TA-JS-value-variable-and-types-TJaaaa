@@ -18,8 +18,10 @@ for (let j = 0; j <= 10; ____) console.log(j);
 
 // 4. Print the odd numbers from 9 to 1 (both inclusive) using a for loop.
 
-// 5. Concat all the numbers from 5 to 0 (both inclusive) in descending order using a while loop. (543210)
+file:///home/khelomore/Documents/Altcampus/JavaScript/TA-JS-value-variable-and-types-TJaaaa/block-BJaaay
 
+// 5. Concat all the numbers from 5 to 0 (both inclusive) in descending order using a while loop. (543210)
+dwjdfl;vmjkvk;lcmjkkf
 // 6. Concat all the even numbers from 10 to 0 (both inclusive) in descending order using a while loop. (1086420)
 
 // Comparisoin
@@ -28,7 +30,7 @@ for (let j = 0; j <= 10; ____) console.log(j);
 
 - `alert` true or false base on the entered value.
 - if the input value is anything like `true`, `null` or `undefined` alert saying `Enter a valid value`.
-
+jvkvlwmfjrkl;v
 
 Example:
 
