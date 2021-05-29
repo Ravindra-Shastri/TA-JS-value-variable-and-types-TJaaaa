@@ -10,7 +10,8 @@ Write a program that asks the user his/her age and check for the following condi
 - `if` the age is greater than 55 then print the message " You are too old to participate in the marthon".
 👇
 */
-
+let age = 60;
+WebGLTransformFeedback;l;''
 // Loops
 /*
 Given a positive integer `n`. Print the word (hello) in format of heeeello (letter 'e' must be repeated `n` times). Take input from prompt and print the result in alert.
@@ -21,13 +22,13 @@ n = 7 => output: heeeeeeello
 👇
 */
 // [Your code goes here]
-
+gkjl;
 /*
 Program to calculate the sum of first n natural numbers(1,2,3...n are known as natural numbers). Prompt user to enter n (using `prompt`) then based on input provided calculate and show result in `alert`.
 👇
 */
 // [Your code goes here]
-
+gvjkl;''
 /* Switch Statement
 
  🎖Using switch statement do the following
